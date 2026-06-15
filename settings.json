@@ -3,7 +3,9 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "online"
+    
+
   },
   "server": {
     "ip": "7B12-p0br.aternos.me",   
