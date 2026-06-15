@@ -11,7 +11,8 @@
     "ip": "7B12-p0br.aternos.me",   
  
     "port": 53299,
-    "version": "1.21.11"
+    "version": "1.21.1"
+  
   },
   "position": {
     "enabled": true,
